@@ -39,10 +39,10 @@ Planejamento de rotas que considera tráfego em tempo real, condições climáti
 Geração de relatórios visuais com métricas chave como custo/km, disponibilidade, MTTR (Tempo Médio para Reparo) e MTBF (Tempo Médio Entre Falhas).   
 
 # 🚀 Diferenciais
-## Diferente de sistemas básicos, esta solução se destaca por:
+### Diferente de sistemas básicos, esta solução se destaca por:
 
-### Gestão Proativa: Utiliza dados para prever falhas antes que elas aconteçam.   
+#### Gestão Proativa: Utiliza dados para prever falhas antes que elas aconteçam.   
 
-Centralização de Dados: Consolida todas as informações em um dashboard inteligente e acionável.   
+#### Centralização de Dados: Consolida todas as informações em um dashboard inteligente e acionável.   
 
-Otimização Estratégica: Transforma dados operacionais em uma vantagem competitiva, reduzindo custos e aumentando a disponibilidade dos veículos. 
+#### Otimização Estratégica: Transforma dados operacionais em uma vantagem competitiva, reduzindo custos e aumentando a disponibilidade dos veículos. 
