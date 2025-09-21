@@ -40,9 +40,6 @@ Geração de relatórios visuais com métricas chave como custo/km, disponibilid
 
 # 🚀 Diferenciais
 Diferente de sistemas básicos, esta solução se destaca por:
-
-[cite_start]
-
 Gestão Proativa: Utiliza dados para prever falhas antes que elas aconteçam.   
 
 [cite_start]
