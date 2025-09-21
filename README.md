@@ -4,12 +4,9 @@
 Este projeto é um sistema de gestão de frotas focado em manutenção preditiva, projetado para resolver os desafios do controle manual e de sistemas básicos. [cite_start]A gestão ineficiente de frotas resulta em custos elevados com manutenções corretivas emergenciais, tempo de inatividade inesperado dos veículos e falta de um histórico confiável sobre os ativos.   
 
 ### A solução proposta é um 
+dashboard inteligente que centraliza todas as informações da frota, utilizando dados para prever necessidades de manutenção, otimizar rotas e fornecer insights acionáveis. O objetivo é transformar a gestão de frotas de um modelo reativo para um modelo proativo, aumentando a eficiência, a segurança e a economia.
 
-dashboard inteligente que centraliza todas as informações da frota, utilizando dados para prever necessidades de manutenção, otimizar rotas e fornecer insights acionáveis. O objetivo é transformar a gestão de frotas de um modelo reativo para um    
-
-modelo proativo, aumentando a eficiência, a segurança e a economia.
-
-🔗 Links do Projeto
+# 🔗 Links do Projeto
 Prototipação de Baixa Fidelidade: [LINK PARA O PROTÓTIPO DE BAIXA FIDELIDADE]
 
 Prototipação de Alta Fidelidade: [LINK PARA O PROTÓTIPO DE ALTA FIDELIDADE]
