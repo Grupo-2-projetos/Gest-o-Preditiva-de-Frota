@@ -7,11 +7,11 @@
 ---Dashboard inteligente que centraliza todas as informações da frota, utilizando dados para prever necessidades de manutenção, otimizar rotas e fornecer insights acionáveis. O objetivo é transformar a gestão de frotas de um modelo reativo para um modelo proativo, aumentando a eficiência, a segurança e a economia.
 
 # 🔗 Links do Projeto
-Prototipação de Baixa Fidelidade: [https://drive.google.com/file/d/12NeDJiwf5u9q5BRrc4z75e0NS0ixgouo/view?usp=sharing]
+Prototipação de Baixa Fidelidade: [https://drive.google.com/drive/folders/1j-bGj05EupJe9A0fgrg2azSFYqaympUs?usp=drive_link]
 
 Prototipação de Alta Fidelidade: [LINK PARA O PROTÓTIPO DE ALTA FIDELIDADE]
 
-Documentação do Projeto: [LINK PARA A DOCUMENTAÇÃO]
+Documentação do Projeto: [https://drive.google.com/file/d/12NeDJiwf5u9q5BRrc4z75e0NS0ixgouo/view?usp=sharing]
 
 Requisitos Funcionais e Não Funcionais: [LINK PARA OS REQUISITOS]
 
