@@ -16,7 +16,7 @@ Documentação do Projeto: [LINK PARA A DOCUMENTAÇÃO]
 Requisitos Funcionais e Não Funcionais: [LINK PARA OS REQUISITOS]
 
 # ✨ Funcionalidades Principais
-O sistema foi projetado com funcionalidades essenciais para uma gestão completa e proativa:
+## O sistema foi projetado com funcionalidades essenciais para uma gestão completa e proativa:
 
 ### 📝 Cadastro Detalhado de Veículos:
 
