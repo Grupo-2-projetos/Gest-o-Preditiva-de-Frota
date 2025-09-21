@@ -1,7 +1,6 @@
-# Gest-o-Preditiva-de-Frota
-Sistema de Gestão Preditiva de Frotas para otimizar a manutenção de veículos.
-Gestão de Manutenção Preditiva de Frota
-📖 Visão Geral
+# Gestão-Preditiva-de-Frota
+
+## 📖 Visão Geral
 Este projeto é um sistema de gestão de frotas focado em manutenção preditiva, projetado para resolver os desafios do controle manual e de sistemas básicos. [cite_start]A gestão ineficiente de frotas resulta em custos elevados com manutenções corretivas emergenciais, tempo de inatividade inesperado dos veículos e falta de um histórico confiável sobre os ativos.   
 
 [cite_start]A solução proposta é um 
