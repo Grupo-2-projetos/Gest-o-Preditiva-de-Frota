@@ -13,7 +13,7 @@ Prototipação de Alta Fidelidade: [LINK PARA O PROTÓTIPO DE ALTA FIDELIDADE]
 
 Documentação do Projeto: [https://drive.google.com/file/d/12NeDJiwf5u9q5BRrc4z75e0NS0ixgouo/view?usp=sharing]
 
-Requisitos Funcionais e Não Funcionais: [LINK PARA OS REQUISITOS]
+Requisitos Funcionais e Não Funcionais: [https://docs.google.com/spreadsheets/d/1WedJPdUr2ixu402jJsH1VoxBYYynBOshBd8ALLys8lw/edit?usp=sharing]
 
 # ✨ Funcionalidades Principais
 ### O sistema foi projetado com funcionalidades essenciais para uma gestão completa e proativa:
