@@ -20,23 +20,23 @@ Requisitos Funcionais e Não Funcionais: [LINK PARA OS REQUISITOS]
 
 #### 📝 Cadastro Detalhado de Veículos:
 
-Histórico completo de manutenções, quilometragem, troca de peças, custos, falhas e tempo de inatividade.   
+---Histórico completo de manutenções, quilometragem, troca de peças, custos, falhas e tempo de inatividade.   
 
 #### 🔔 Alertas Inteligentes:
 
-Notificações automáticas para gestores sobre manutenções preventivas com base na quilometragem ou tempo de uso, evitando falhas inesperadas.   
+---Notificações automáticas para gestores sobre manutenções preventivas com base na quilometragem ou tempo de uso, evitando falhas inesperadas.   
 
 #### 💰 Controle de Custos:
 
-Módulo para registrar e analisar todos os custos associados à manutenção e operação, ajudando a identificar os veículos com maior custo.   
+---Módulo para registrar e analisar todos os custos associados à manutenção e operação, ajudando a identificar os veículos com maior custo.   
 
 #### 🗺️ Algoritmos de Roteirização Inteligente:
 
-Planejamento de rotas que considera tráfego em tempo real, condições climáticas e padrões de condução para reduzir o consumo de combustível em até 15%.   
+---Planejamento de rotas que considera tráfego em tempo real, condições climáticas e padrões de condução para reduzir o consumo de combustível em até 15%.   
 
 #### 📊 Emissão de Relatórios e Gráficos:
 
-Geração de relatórios visuais com métricas chave como custo/km, disponibilidade, MTTR (Tempo Médio para Reparo) e MTBF (Tempo Médio Entre Falhas).   
+---Geração de relatórios visuais com métricas chave como custo/km, disponibilidade, MTTR (Tempo Médio para Reparo) e MTBF (Tempo Médio Entre Falhas).   
 
 # 🚀 Diferenciais
 ### Diferente de sistemas básicos, esta solução se destaca por:
