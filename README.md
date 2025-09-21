@@ -15,30 +15,28 @@ Documentação do Projeto: [LINK PARA A DOCUMENTAÇÃO]
 
 Requisitos Funcionais e Não Funcionais: [LINK PARA OS REQUISITOS]
 
-✨ Funcionalidades Principais
+# ✨ Funcionalidades Principais
 O sistema foi projetado com funcionalidades essenciais para uma gestão completa e proativa:
 
-📝 Cadastro Detalhado de Veículos:
+### 📝 Cadastro Detalhado de Veículos:
 
-[cite_start]Histórico completo de manutenções, quilometragem, troca de peças, custos, falhas e tempo de inatividade.   
+Histórico completo de manutenções, quilometragem, troca de peças, custos, falhas e tempo de inatividade.   
 
-🔔 Alertas Inteligentes:
+### 🔔 Alertas Inteligentes:
 
-[cite_start]Notificações automáticas para gestores sobre manutenções preventivas com base na quilometragem ou tempo de uso, evitando falhas inesperadas.   
+Notificações automáticas para gestores sobre manutenções preventivas com base na quilometragem ou tempo de uso, evitando falhas inesperadas.   
 
-💰 Controle de Custos:
+### 💰 Controle de Custos:
 
-[cite_start]Módulo para registrar e analisar todos os custos associados à manutenção e operação, ajudando a identificar os veículos com maior custo.   
+Módulo para registrar e analisar todos os custos associados à manutenção e operação, ajudando a identificar os veículos com maior custo.   
 
-🗺️ Algoritmos de Roteirização Inteligente:
+### 🗺️ Algoritmos de Roteirização Inteligente:
 
-[cite_start]Planejamento de rotas que considera tráfego em tempo real, condições climáticas e padrões de condução para reduzir o consumo de combustível em até 15%.   
+Planejamento de rotas que considera tráfego em tempo real, condições climáticas e padrões de condução para reduzir o consumo de combustível em até 15%.   
 
-📊 Emissão de Relatórios e Gráficos:
+### 📊 Emissão de Relatórios e Gráficos:
 
-[cite_start]Geração de relatórios visuais com métricas chave como custo/km, disponibilidade, 
-
-MTTR (Tempo Médio para Reparo) e MTBF (Tempo Médio Entre Falhas).   
+Geração de relatórios visuais com métricas chave como custo/km, disponibilidade, MTTR (Tempo Médio para Reparo) e MTBF (Tempo Médio Entre Falhas).   
 
 🚀 Diferenciais
 Diferente de sistemas básicos, esta solução se destaca por:
