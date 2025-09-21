@@ -45,6 +45,4 @@ Gestão Proativa: Utiliza dados para prever falhas antes que elas aconteçam.  
 
 Centralização de Dados: Consolida todas as informações em um dashboard inteligente e acionável.   
 
-[cite_start]
-
 Otimização Estratégica: Transforma dados operacionais em uma vantagem competitiva, reduzindo custos e aumentando a disponibilidade dos veículos. 
