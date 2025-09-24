@@ -9,7 +9,7 @@
 # 🔗 Links do Projeto
 Prototipação de Baixa Fidelidade: [https://drive.google.com/drive/folders/1j-bGj05EupJe9A0fgrg2azSFYqaympUs?usp=drive_link]
 
-Prototipação de Alta Fidelidade: [LINK PARA O PROTÓTIPO DE ALTA FIDELIDADE]
+Prototipação de Alta Fidelidade: [https://www.figma.com/proto/x1mNDwHZpLjdU8Yo7JWiVr/Unect?node-id=12-1713&t=hE0fqGW5r6Clchue-1]
 
 Documentação do Projeto: [https://drive.google.com/file/d/12NeDJiwf5u9q5BRrc4z75e0NS0ixgouo/view?usp=sharing]
 
